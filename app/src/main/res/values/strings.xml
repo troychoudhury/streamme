@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">streamme</string>
+    <string name="facebook_app_id">1026157794114021</string>
+    <string name="loading">Signing in...</string>
+    <string name="signed_in_fmt">Logged in as %s</string>
+    <string name="sign_in_error_fmt">Login failed: %s</string>
+</resources>
